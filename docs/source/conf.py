@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = '感知SIL评测指标体系设计文档'
-copyright = '2022, yaojingao'
-author = 'yaojingao'
+copyright = '© Copyright 2022, xiaomi.com.'
+author = 'xiaomi'
 
 
 # -- General configuration ---------------------------------------------------
